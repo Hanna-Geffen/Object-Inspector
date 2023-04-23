@@ -1,0 +1,15 @@
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\Object_Inspector.exe
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\Object_Inspector.deps.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\Object_Inspector.runtimeconfig.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\Object_Inspector.runtimeconfig.dev.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\Object_Inspector.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\ref\Object_Inspector.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\bin\Debug\net5.0\Object_Inspector.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.AssemblyInfo.cs
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\ref\Object_Inspector.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Object_Inspector\obj\Debug\net5.0\Object_Inspector.genruntimeconfig.cache
